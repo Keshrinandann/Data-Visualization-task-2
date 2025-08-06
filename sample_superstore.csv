@@ -1,0 +1,6 @@
+Order ID,Order Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Product Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,2016-11-08,Second Class,Claire Gute,Consumer,United States,Henderson,Kentucky,South,Furniture,Bookcase,261.96,2,0.0,41.91
+CA-2016-152157,2016-11-08,Standard Class,Sean Miller,Corporate,United States,Los Angeles,California,West,Technology,Laptop,731.94,3,0.1,219.58
+US-2017-108966,2017-06-12,First Class,Michael Brown,Consumer,United States,New York,New York,East,Office Supplies,Stapler,15.48,2,0.2,5.82
+US-2018-118983,2018-05-05,Standard Class,John Doe,Home Office,United States,San Francisco,California,West,Furniture,Chair,300.00,4,0.0,50.00
+IN-2019-167845,2019-03-15,Same Day,Anita Sharma,Consumer,India,Delhi,Delhi,APAC,Technology,Smartphone,1200.50,1,0.15,400.00
